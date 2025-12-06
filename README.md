@@ -23,11 +23,11 @@ A web-based Vehicle Rental System that allows users to browse available vehicles
 
 ## Technology Stack
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:**  JavaScript
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB (if applicable)
+-
 - **Version Control:** Git & GitHub
-- **Deployment:** Render / Railway / Heroku
+- 
 
 ---
 
